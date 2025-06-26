@@ -8,6 +8,6 @@ google-auth
 google-auth-oauthlib
 langchain
 langchain-ibm
-pinecone-client
+pinecone
 streamlit-authenticator
 PyYAML 
