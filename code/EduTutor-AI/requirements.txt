@@ -11,3 +11,4 @@ langchain-ibm
 pinecone
 streamlit-authenticator
 PyYAML 
+streamlit_oauth
