@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+passlib[bcrypt]
+python-jose
+authlib
+requests
+google-auth
+google-auth-oauthlib
+langchain
+langchain-ibm
+pinecone
+streamlit-authenticator
+PyYAML 
+streamlit_oauth
